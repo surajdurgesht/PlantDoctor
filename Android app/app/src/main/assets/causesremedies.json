@@ -1,0 +1,27 @@
+{
+  "Black Rot": [
+    {
+      "Causes": "Black rot is a disease of apples that infects fruit, leaves and bark caused by the fungus Botryosphaeria obtusa"
+    },
+    {
+      "Remedies": "Prune the dead or infected branches from apple trees and grapevines, disinfecting the pruning shears with a 70 percent alcohol solution after each cut. Rotate crucifer crops every two years, using black rot-resistant cultivars. When replanting, soak seeds in hot water to kill black rot and wait until a warm, dry day to sow the seeds."
+    }
+  ],
+  "Scab": [
+    {
+      "Causes": "Apple scab is a disease of Malus trees, such as apple trees, caused by the ascomycete fungus Venturia inaequalis. The disease manifests as dull black or grey-brown lesions on the surface of tree leaves,buds or fruits."
+    },
+    {
+      "Remedies":
+        "One method of apple scab treatment is to apply a fungicide, such as Myclotect 2 – 4 times in the spring as the leaves emerge. Raking and removing fallen leaves from your yard in autumn helps reduce spores."
+    }
+  ],
+  "Cedar Rust": [
+    {
+      "Causes": "Gymnosporangium juniperi-virginianae is a plant pathogen that causes cedar-apple rust. Quince and hawthorn are the most common host and many species of juniper can substitute for the Eastern red cedars."
+    },
+    {
+      "Remedies": "Junipers can easily be treated for cedar-apple rust by pruning branches about four to six inches below the galls. You can control cedar-apple rust on rosaceous hosts using fungicides containing chlorothalonil, ferbam, dithiocarbamates, mancozeb, metiram, sulfur, thiram, triadimefon, triforine, or zineb."
+    }
+  ]
+}
